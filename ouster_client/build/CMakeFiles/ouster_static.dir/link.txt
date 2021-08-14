@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libouster_client.a  CMakeFiles/ouster_static.dir/src/client.cpp.o CMakeFiles/ouster_static.dir/src/example.cpp.o CMakeFiles/ouster_static.dir/src/image_processing.cpp.o CMakeFiles/ouster_static.dir/src/lidar_scan.cpp.o CMakeFiles/ouster_static.dir/src/netcompat.cpp.o CMakeFiles/ouster_static.dir/src/types.cpp.o
+/usr/bin/ranlib lib/libouster_client.a

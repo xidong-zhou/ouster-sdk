@@ -1,0 +1,4 @@
+/home/zxd/ouster_client/build/CMakeFiles/rebuild_cache.dir
+/home/zxd/ouster_client/build/CMakeFiles/edit_cache.dir
+/home/zxd/ouster_client/build/CMakeFiles/ouster_static.dir
+/home/zxd/ouster_client/build/CMakeFiles/ouster_dynamic.dir
